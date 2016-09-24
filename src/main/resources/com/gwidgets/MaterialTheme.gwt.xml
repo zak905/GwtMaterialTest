@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='MaterialTheme'>
+
+	<inherits name='com.google.gwt.user.User' />
+
+	<inherits name='com.google.gwt.user.theme.standard.Standard' />
+	
+	<inherits name="gwt.material.design.GwtMaterialDesign"/>
+
+	<source path='client' />
+	<source path='ui' />
+
+</module>
